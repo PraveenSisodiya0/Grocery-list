@@ -27,21 +27,5 @@ Choose an option (1-5): 1
 What do you want to add? Bread
 Added 'Bread' to your list.
 
-What You Need
-	•	Python 3 installed on your computer.
-	•	Just run the script—no extra setup needed!
 
-Why This is Useful
 
-✔️ Super easy to use
-✔️ Helps you remember what to buy
-✔️ Great for practicing Python
-
-Future Ideas (if you want to improve it)
-	•	Save the list so it doesn’t reset when you close the program
-	•	Allow updating items instead of just adding/removing
-	•	Organize items into categories
-
-Made for learning and fun! 🎉
-
-This README is written in simple, human-friendly language, making it easy for anyone to understand. Let me know if you need any changes!
